@@ -1,0 +1,2 @@
+langauge = "java"
+run = "bash run.bash"
